@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @qudsia-hassaan
+- 👀 I’m interested in IOT/Robotics
+- 🌱 I’m currently learning Biomedical Eng.
